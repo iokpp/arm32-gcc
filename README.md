@@ -1,1 +1,1 @@
-# arm632-gcc
+# arm32-gcc
